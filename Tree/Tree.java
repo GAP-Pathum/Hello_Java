@@ -155,7 +155,6 @@ public class Tree {
         tree.insert(50);
         tree.insert(13);
         tree.insert(39);
-        tree.insert(57);
 
         tree.insert(9);
         tree.insert(5);

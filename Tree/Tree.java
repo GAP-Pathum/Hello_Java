@@ -146,7 +146,7 @@ public class Tree {
 
         Tree tree = new Tree();
 
-        /*
+
         tree.insert(45);
         tree.insert(10);
         tree.insert(7);
@@ -156,8 +156,6 @@ public class Tree {
         tree.insert(13);
         tree.insert(39);
         tree.insert(57);
-
-         */
 
         tree.insert(9);
         tree.insert(5);
